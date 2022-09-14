@@ -1,0 +1,21 @@
+.block span h2
+{
+    display: inline;
+  
+}
+.block
+{
+   border-radius: 10px;
+}
+
+ 
+.navbar
+{
+    box-shadow: 0px 0px 10px rgb(213, 224, 228);
+}
+i:not(table i){
+    font-size: 30px;
+}
+footer i{
+    color: blueviolet;
+}
